@@ -168,11 +168,11 @@ https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_small_
 拦截广告、（移动）应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）
 
 ```
-https://raw.githubusercontent.com/wycxqsf/A-collection-of-rules/main/oisd_big_abp.txt
+https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_abp.txt?token=GHSAT0AAAAAACN2EP6GJRRXB64TPBIVEMCKZOA7VDQ
 ```
 加速链接
 ```
-https://raw.githubusercontent.com/wycxqsf/A-collection-of-rules/main/oisd_big_abp.txt
+https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_abp.txt?token=GHSAT0AAAAAACN2EP6GJRRXB64TPBIVEMCKZOA7VDQ
 ```
 
 <h1 align="center"><br>海哥大佬</h1>
