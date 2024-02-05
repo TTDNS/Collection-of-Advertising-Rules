@@ -43,8 +43,6 @@ https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt
 ```
 https://raw.gitmirror.com/PhoenixLjw/AdRules/main/adguard.txt
 ```
-<h1 align="center"><br>合并规则</h1>
-<div 
 
 <h1 align="center"><br>1host</h1>
 <div align="center">
