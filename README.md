@@ -180,7 +180,7 @@ https://raw.githubusercontent.com/wycxqsf/A-collection-of-rules/main/oisd_big_ab
 
 <strong>规则地址🚀</strong><br/><br/>
 ```
-https://raw.githubusercontent.com/2771936993/HG/main/hg.txt
+https://raw.gitmirror.com/2771936993/HG/main/hg1.txt
 ```
 
 <h1 align="center"><br>广告拦截规则合并
