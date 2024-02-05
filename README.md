@@ -158,12 +158,12 @@ https://oisd.nl/
 
 专注于广告拦截
 ```
-https://raw.githubusercontent.com/wycxqsf/A-collection-of-rules/main/oisd_small_abp%20(1).txt
+https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_small_abp.txt?token=GHSAT0AAAAAACN2EP6HEF4KI5Q54N6N5T2GZOA7RUQ
 ```
 加速规则
 
 ```
-https://raw.gitmirror.com/wycxqsf/A-collection-of-rules/main/oisd_small_abp%20(1).txt
+https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_small_abp.txt?token=GHSAT0AAAAAACN2EP6HEF4KI5Q54N6N5T2GZOA7RUQ
 ```
 拦截广告、（移动）应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）
 
