@@ -44,26 +44,7 @@ https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt
 https://raw.gitmirror.com/PhoenixLjw/AdRules/main/adguard.txt
 ```
 <h1 align="center"><br>合并规则</h1>
-<div align="center">
-
-<strong></strong>合并anti-AD和自用规则3.0<br/><br/>
-
-```
-https://raw.githubusercontent.com/wycxqsf/AD--/main/%E5%90%88%E5%B9%B6%E8%A7%84%E5%88%99/%E5%90%88%E5%B9%B6AD%E5%92%8C%E8%87%AA%E7%94%A8%E8%A7%84%E5%88%99.txt
-```
-加速链接
-```
-https://raw.gitmirror.com/wycxqsf/AD--/main/%E5%90%88%E5%B9%B6%E8%A7%84%E5%88%99/%E5%90%88%E5%B9%B6AD%E5%92%8C%E8%87%AA%E7%94%A8%E8%A7%84%E5%88%99.txt
-```
-合并anti-AD，去广告规则测试入群，自用规则3.0
-
-```
-https://raw.githubusercontent.com/wycxqsf/AD--/main/%E5%90%88%E5%B9%B6%E8%A7%84%E5%88%99/%E5%90%88%E5%B9%B6AD%EF%BC%8C%E5%8E%BB%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%E6%B5%8B%E8%AF%95%E5%85%A5%E7%BE%A4%EF%BC%8C%E8%87%AA%E7%94%A8%E8%A7%84%E5%88%99.txt
-```
-加速链接
-```
-https://raw.gitmirror.com/wycxqsf/AD--/main/%E5%90%88%E5%B9%B6%E8%A7%84%E5%88%99/%E5%90%88%E5%B9%B6AD%EF%BC%8C%E5%8E%BB%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%E6%B5%8B%E8%AF%95%E5%85%A5%E7%BE%A4%EF%BC%8C%E8%87%AA%E7%94%A8%E8%A7%84%E5%88%99.txt
-```
+<div 
 
 <h1 align="center"><br>1host</h1>
 <div align="center">
