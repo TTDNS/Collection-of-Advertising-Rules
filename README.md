@@ -1,9 +1,11 @@
 # 阻止所有中国广告
 Github
-```https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/adguardrules%E9%98%BB%E6%AD%A2%E6%89%80%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%B9%BF%E5%91%8A%EF%BC%88list%EF%BC%89.txt?token=GHSAT0AAAAAACN2EP6HNROXPEKV7CWUJRZYZOA7XHQ
+```
+https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/adguardrules%E9%98%BB%E6%AD%A2%E6%89%80%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%B9%BF%E5%91%8A%EF%BC%88list%EF%BC%89.txt?token=GHSAT0AAAAAACN2EP6HAZU5J6RYEX5DR77EZOA72PQ
 ```
 加速链接
-```https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/adguardrules%E9%98%BB%E6%AD%A2%E6%89%80%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%B9%BF%E5%91%8A%EF%BC%88list%EF%BC%89.txt?token=GHSAT0AAAAAACN2EP6HNROXPEKV7CWUJRZYZOA7XHQ
+```
+https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/adguardrules%E9%98%BB%E6%AD%A2%E6%89%80%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%B9%BF%E5%91%8A%EF%BC%88list%EF%BC%89.txt?token=GHSAT0AAAAAACN2EP6HAZU5J6RYEX5DR77EZOA72PQ
 ```
 
 
