@@ -1,14 +1,3 @@
-# 去广告规则测试入群🐧
-Gihub
-```
-https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/%E5%8E%BB%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%E6%B5%8B%E8%AF%95%E5%85%A5%E7%BE%A4.txt?token=GHSAT0AAAAAACN2EP6HHIDD3QYJON6VXVNEZOA7G3A
-```
-加速链接
-```
-https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/%E5%8E%BB%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%E6%B5%8B%E8%AF%95%E5%85%A5%E7%BE%A4.txt?token=GHSAT0AAAAAACN2EP6HHIDD3QYJON6VXVNEZOA7G3A
-```
-
-
 # 合并酷安大佬规则AdGuardHome
 
 Gihub
@@ -124,11 +113,11 @@ https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/me/master/rules.
 <strong></strong><br/><br/>
 github
 ```
-https://raw.githubusercontent.com/wycxqsf/A-collection-of-rules/main/adguard.txt
+https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/%E5%8E%BB%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%E6%B5%8B%E8%AF%95%E5%85%A5%E7%BE%A4.txt?token=GHSAT0AAAAAACN2EP6HHIDD3QYJON6VXVNEZOA7G3A
 ```
 加速链接
 ```
-https://raw.gitmirror.com/wycxqsf/A-collection-of-rules/main/adguard.txt
+https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/%E5%8E%BB%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%E6%B5%8B%E8%AF%95%E5%85%A5%E7%BE%A4.txt?token=GHSAT0AAAAAACN2EP6HHIDD3QYJON6VXVNEZOA7G3A
 ```
 
 
