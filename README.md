@@ -8,6 +8,7 @@
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
 
 # Close模块转adguard规则
+加速链接
 ```
 https://raw.gitmirror.co/TTDNS/Collection-of-Advertising-Rules/main/close.txt?token=GHSAT0AAAAAACOXLSSUI3GFZFOHNNSPBZPUZO4NM6A
 ```
