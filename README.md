@@ -179,7 +179,11 @@ https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/ois
 ```
 加速链接
 ```
-https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_abp.txt?token=GHSAT0AAAAAACN2EP6GJRRXB64TPBIVEMCKZOA7VDQ
+https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_abp.txt?token=GHSAT0AAAAAACN2EP6GJRRXB64TPBIVEMCKZOA7V
+```
+阻止色情广告
+```
+https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_nsfw_abp.txt?token=GHSAT0AAAAAACPD2CRKHLSMJNMNSQVKVG56ZPGXBL
 ```
 
 <h1 align="center"><br>海哥大佬</h1>
