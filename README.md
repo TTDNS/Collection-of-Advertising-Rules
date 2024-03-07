@@ -164,16 +164,20 @@ https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt
 https://oisd.nl/
 
 专注于广告拦截
+
+Github
 ```
 https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_small_abp.txt?token=GHSAT0AAAAAACN2EP6HEF4KI5Q54N6N5T2GZOA7RUQ
 ```
-加速规则
+加速链接
 
 ```
 https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_small_abp.txt?token=GHSAT0AAAAAACN2EP6HEF4KI5Q54N6N5T2GZOA7RUQ
 ```
 拦截广告、（移动）应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）
 
+
+Github
 ```
 https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_abp.txt?token=GHSAT0AAAAAACN2EP6GJRRXB64TPBIVEMCKZOA7VDQ
 ```
@@ -182,6 +186,8 @@ https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/ois
 https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_abp.txt?token=GHSAT0AAAAAACN2EP6GJRRXB64TPBIVEMCKZOA7V
 ```
 阻止色情广告
+
+加速链接
 ```
 https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_nsfw_abp.txt?token=GHSAT0AAAAAACPD2CRKHLSMJNMNSQVKVG56ZPGXBL
 ```
