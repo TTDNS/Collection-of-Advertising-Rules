@@ -192,13 +192,8 @@ https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_big_ab
 https://raw.githubusercontent.com/TTDNS/Collection-of-Advertising-Rules/main/oisd_nsfw_abp.txt?token=GHSAT0AAAAAACPD2CRKHLSMJNMNSQVKVG56ZPGXBL
 ```
 
-<h1 align="center"><br>海哥大佬</h1>
-<div align="center">
 
-<strong>规则地址🚀</strong><br/><br/>
-```
-https://raw.gitmirror.com/2771936993/HG/main/hg1.txt
-```
+
 
 <h1 align="center"><br>广告拦截规则合并
 
