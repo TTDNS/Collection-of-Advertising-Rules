@@ -50,7 +50,7 @@ https://raw.gitmirror.com/wycxqsf/A-collection-of-rules/main/adguardhome.txt
 <strong></strong>官网地址🚀<br/><br/>
 https://github.com/Luphraim/AdRules
 
-# （合并乘风视频、ADgk、anti - AD、酷安大萌主、去除APP下载规则、百度超级净化和一些额外的规则）
+# （合并乘风视频、ADgk、anti - AD、酷安大萌主、去除APP下载规则、百度超级净化和一些额外规则）
 Gihub
 ```
 https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt
