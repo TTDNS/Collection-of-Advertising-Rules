@@ -7,6 +7,22 @@
 
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
 
+<h1 align="center"><br>yhosts规则</h1>
+
+<div align="center">
+
+<strong></strong>规则地址🚀<br/><br/>
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+
+Github订阅
+```
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+```
+加速链接
+```
+https://raw.gitmirror.co/VeleSila/yhosts/master/hosts
+```
+
 # Close模块转adguard规则
 加速链接
 ```
