@@ -107,8 +107,13 @@ https://o0.pages.dev/Xtra/adblock.txt
 <div align="center">
 
 <strong></strong>规则地址🚀<br/><br/>
+自定义规则
 ```
-http://cfmqy.cn/adguard/api.php?type=host
+http://rssv.cn/adguard/api.php?type=host
+```
+DNS规则
+```
+http://rssv.cn/adguard/api.php?type=dns
 ```
 
 <h1 align="center"><br>最新强大而友善的去广告</h1>
