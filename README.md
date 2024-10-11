@@ -59,7 +59,7 @@ https://raw.gitmirror.co/VeleSila/yhosts/master/hosts
 # Close模块转adguard规则
 加速链接
 ```
-https://raw.gitmirror.co/TTDNS/Collection-of-Advertising-Rules/main/close.txt?token=GHSAT0AAAAAACOXLSSUI3GFZFOHNNSPBZPUZO4NM6A
+https://raw.gitmirror.com/TTDNS/Collection-of-Advertising-Rules/refs/heads/main/close.txt
 ```
 
 # 阻止所有中国广告     
