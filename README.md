@@ -7,6 +7,18 @@
 
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
 
+<h1 align="center"><br>秋风广告规则</h1>
+<div align="center">
+
+<strong></strong>官网地址🚀<br/><br/>
+https://awavenue.top/
+
+Github
+
+https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+```
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+```
 
 <h1 align="center"><br>HyperADRules</h1>
 <div align="center">
@@ -73,12 +85,6 @@ https://raw.githubusercontent.com/wycxqsf/A-collection-of-rules/main/adguardhome
 ```
 https://raw.gitmirror.com/wycxqsf/A-collection-of-rules/main/adguardhome.txt
 ```
-
-
-
-
-
-
 
 
 <h1 align="center">AdKiller<br></h1>
