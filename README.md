@@ -7,6 +7,27 @@
 
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
 
+
+<h1 align="center"><br>HyperADRules</h1>
+<div align="center">
+<strong></strong>官网地址🚀<br/><br/>
+
+https://github.com/Lynricsy/HyperADRules
+
+拦截规则（国内加速）
+```
+https://ghp.ci/raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt
+```
+DNS拦截规则（国内加速）
+```
+https://ghp.ci/raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt
+```
+白名单（国内加速）
+```
+https://ghp.ci/raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt
+```
+
+
 <h1 align="center"><br>yhosts规则</h1>
 
 <div align="center">
