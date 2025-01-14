@@ -6,6 +6,23 @@
 
 
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
+<h1 align="center"><br>极客爱好者
+</h1>
+<div align="center">
+
+<strong></strong>官网地址🚀<br/><br/>
+https://kbsml.com/?p=175
+
+adguard过滤规则：
+```
+https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt
+```
+adguard  dns过滤规则：
+```
+https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
+```
+ 
+
 
 <h1 align="center"><br>秋风广告规则</h1>
 <div align="center">
