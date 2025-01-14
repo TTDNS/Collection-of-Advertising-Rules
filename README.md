@@ -151,13 +151,13 @@ https://o0.pages.dev/Xtra/adblock.txt
 <div align="center">
 
 <strong></strong>规则地址🚀<br/><br/>
-自定义规则
+订阅规则
 ```
-http://rssv.cn/adguard/api.php?type=host
+http://rssv.cn/adguard/api.php?type=black
 ```
-DNS规则
+Root专用订阅
 ```
-http://rssv.cn/adguard/api.php?type=dns
+http://rssv.cn/adguard/api.php?type=root_black
 ```
 
 <h1 align="center"><br>最新强大而友善的去广告</h1>
